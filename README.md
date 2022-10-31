@@ -2,8 +2,9 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamerson-wesley-0016981ab/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamersonwesley&show_icons=true&theme=radical)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamersonwesley&show_icons=true&theme=radical)
+
 
 
 ### Tecnologias Que Eu Utilizo
