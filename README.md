@@ -25,4 +25,4 @@
 
 ### Sobre Mim/About Me
 <h1>Desenvolvedor Junior Fullstack, Estudante de ciências da computação, apaixonado por tecnologia e programação
-<br>_______________________________________________________________________Junior Fullstack Developer, Computer Science Student, passionate about technology and programming</h1>
+<br>________________________________________________________________________Junior Fullstack Developer, Computer Science Student, passionate about technology and programming</h1>
